@@ -1,0 +1,656 @@
+{
+  "Nome": "Maranhão",
+  "Cidades": [
+    {
+      "Nome": "Açailândia"
+    },
+    {
+      "Nome": "Afonso Cunha"
+    },
+    {
+      "Nome": "Água Doce do Maranhão"
+    },
+    {
+      "Nome": "Alcântara"
+    },
+    {
+      "Nome": "Aldeias Altas"
+    },
+    {
+      "Nome": "Altamira do Maranhão"
+    },
+    {
+      "Nome": "Alto Alegre do Maranhão"
+    },
+    {
+      "Nome": "Alto Alegre do Pindaré"
+    },
+    {
+      "Nome": "Alto Parnaíba"
+    },
+    {
+      "Nome": "Amapá do Maranhão"
+    },
+    {
+      "Nome": "Amarante do Maranhão"
+    },
+    {
+      "Nome": "Anajatuba"
+    },
+    {
+      "Nome": "Anapurus"
+    },
+    {
+      "Nome": "Apicum-Açu"
+    },
+    {
+      "Nome": "Araguanã"
+    },
+    {
+      "Nome": "Araioses"
+    },
+    {
+      "Nome": "Arame"
+    },
+    {
+      "Nome": "Arari"
+    },
+    {
+      "Nome": "Axixá"
+    },
+    {
+      "Nome": "Bacabal"
+    },
+    {
+      "Nome": "Bacabeira"
+    },
+    {
+      "Nome": "Bacuri"
+    },
+    {
+      "Nome": "Bacurituba"
+    },
+    {
+      "Nome": "Balsas"
+    },
+    {
+      "Nome": "Barão de Grajaú"
+    },
+    {
+      "Nome": "Barra do Corda"
+    },
+    {
+      "Nome": "Barreirinhas"
+    },
+    {
+      "Nome": "Bela Vista do Maranhão"
+    },
+    {
+      "Nome": "Belágua"
+    },
+    {
+      "Nome": "Benedito Leite"
+    },
+    {
+      "Nome": "Bequimão"
+    },
+    {
+      "Nome": "Bernardo do Mearim"
+    },
+    {
+      "Nome": "Boa Vista do Gurupi"
+    },
+    {
+      "Nome": "Bom Jardim"
+    },
+    {
+      "Nome": "Bom Jesus das Selvas"
+    },
+    {
+      "Nome": "Bom Lugar"
+    },
+    {
+      "Nome": "Brejo"
+    },
+    {
+      "Nome": "Brejo de Areia"
+    },
+    {
+      "Nome": "Buriti"
+    },
+    {
+      "Nome": "Buriti Bravo"
+    },
+    {
+      "Nome": "Buriticupu"
+    },
+    {
+      "Nome": "Buritirana"
+    },
+    {
+      "Nome": "Cachoeira Grande"
+    },
+    {
+      "Nome": "Cajapió"
+    },
+    {
+      "Nome": "Cajari"
+    },
+    {
+      "Nome": "Campestre do Maranhão"
+    },
+    {
+      "Nome": "Cândido Mendes"
+    },
+    {
+      "Nome": "Cantanhede"
+    },
+    {
+      "Nome": "Capinzal do Norte"
+    },
+    {
+      "Nome": "Carolina"
+    },
+    {
+      "Nome": "Carutapera"
+    },
+    {
+      "Nome": "Caxias"
+    },
+    {
+      "Nome": "Cedral"
+    },
+    {
+      "Nome": "Central do Maranhão"
+    },
+    {
+      "Nome": "Centro do Guilherme"
+    },
+    {
+      "Nome": "Centro Novo do Maranhão"
+    },
+    {
+      "Nome": "Chapadinha"
+    },
+    {
+      "Nome": "Cidelândia"
+    },
+    {
+      "Nome": "Codó"
+    },
+    {
+      "Nome": "Coelho Neto"
+    },
+    {
+      "Nome": "Colinas"
+    },
+    {
+      "Nome": "Conceição do Lago-Açu"
+    },
+    {
+      "Nome": "Coroatá"
+    },
+    {
+      "Nome": "Cururupu"
+    },
+    {
+      "Nome": "Davinópolis"
+    },
+    {
+      "Nome": "Dom Pedro"
+    },
+    {
+      "Nome": "Duque Bacelar"
+    },
+    {
+      "Nome": "Esperantinópolis"
+    },
+    {
+      "Nome": "Estreito"
+    },
+    {
+      "Nome": "Feira Nova do Maranhão"
+    },
+    {
+      "Nome": "Fernando Falcão"
+    },
+    {
+      "Nome": "Formosa da Serra Negra"
+    },
+    {
+      "Nome": "Fortaleza dos Nogueiras"
+    },
+    {
+      "Nome": "Fortuna"
+    },
+    {
+      "Nome": "Godofredo Viana"
+    },
+    {
+      "Nome": "Gonçalves Dias"
+    },
+    {
+      "Nome": "Governador Archer"
+    },
+    {
+      "Nome": "Governador Edison Lobão"
+    },
+    {
+      "Nome": "Governador Eugênio Barros"
+    },
+    {
+      "Nome": "Governador Luiz Rocha"
+    },
+    {
+      "Nome": "Governador Newton Bello"
+    },
+    {
+      "Nome": "Governador Nunes Freire"
+    },
+    {
+      "Nome": "Graça Aranha"
+    },
+    {
+      "Nome": "Grajaú"
+    },
+    {
+      "Nome": "Guimarães"
+    },
+    {
+      "Nome": "Humberto de Campos"
+    },
+    {
+      "Nome": "Icatu"
+    },
+    {
+      "Nome": "Igarapé do Meio"
+    },
+    {
+      "Nome": "Igarapé Grande"
+    },
+    {
+      "Nome": "Imperatriz"
+    },
+    {
+      "Nome": "Itaipava do Grajaú"
+    },
+    {
+      "Nome": "Itapecuru Mirim"
+    },
+    {
+      "Nome": "Itinga do Maranhão"
+    },
+    {
+      "Nome": "Jatobá"
+    },
+    {
+      "Nome": "Jenipapo dos Vieiras"
+    },
+    {
+      "Nome": "João Lisboa"
+    },
+    {
+      "Nome": "Joselândia"
+    },
+    {
+      "Nome": "Junco do Maranhão"
+    },
+    {
+      "Nome": "Lago da Pedra"
+    },
+    {
+      "Nome": "Lago do Junco"
+    },
+    {
+      "Nome": "Lago dos Rodrigues"
+    },
+    {
+      "Nome": "Lago Verde"
+    },
+    {
+      "Nome": "Lagoa do Mato"
+    },
+    {
+      "Nome": "Lagoa Grande do Maranhão"
+    },
+    {
+      "Nome": "Lajeado Novo"
+    },
+    {
+      "Nome": "Lima Campos"
+    },
+    {
+      "Nome": "Loreto"
+    },
+    {
+      "Nome": "Luís Domingues"
+    },
+    {
+      "Nome": "Magalhães de Almeida"
+    },
+    {
+      "Nome": "Maracaçumé"
+    },
+    {
+      "Nome": "Marajá do Sena"
+    },
+    {
+      "Nome": "Maranhãozinho"
+    },
+    {
+      "Nome": "Mata Roma"
+    },
+    {
+      "Nome": "Matinha"
+    },
+    {
+      "Nome": "Matões"
+    },
+    {
+      "Nome": "Matões do Norte"
+    },
+    {
+      "Nome": "Milagres do Maranhão"
+    },
+    {
+      "Nome": "Mirador"
+    },
+    {
+      "Nome": "Miranda do Norte"
+    },
+    {
+      "Nome": "Mirinzal"
+    },
+    {
+      "Nome": "Monção"
+    },
+    {
+      "Nome": "Montes Altos"
+    },
+    {
+      "Nome": "Morros"
+    },
+    {
+      "Nome": "Nina Rodrigues"
+    },
+    {
+      "Nome": "Nova Colinas"
+    },
+    {
+      "Nome": "Nova Iorque"
+    },
+    {
+      "Nome": "Nova Olinda do Maranhão"
+    },
+    {
+      "Nome": "Olho d'Água das Cunhãs"
+    },
+    {
+      "Nome": "Olinda Nova do Maranhão"
+    },
+    {
+      "Nome": "Paço do Lumiar"
+    },
+    {
+      "Nome": "Palmeirândia"
+    },
+    {
+      "Nome": "Paraibano"
+    },
+    {
+      "Nome": "Parnarama"
+    },
+    {
+      "Nome": "Passagem Franca"
+    },
+    {
+      "Nome": "Pastos Bons"
+    },
+    {
+      "Nome": "Paulino Neves"
+    },
+    {
+      "Nome": "Paulo Ramos"
+    },
+    {
+      "Nome": "Pedreiras"
+    },
+    {
+      "Nome": "Pedro do Rosário"
+    },
+    {
+      "Nome": "Penalva"
+    },
+    {
+      "Nome": "Peri Mirim"
+    },
+    {
+      "Nome": "Peritoró"
+    },
+    {
+      "Nome": "Pindaré-Mirim"
+    },
+    {
+      "Nome": "Pinheiro"
+    },
+    {
+      "Nome": "Pio XII"
+    },
+    {
+      "Nome": "Pirapemas"
+    },
+    {
+      "Nome": "Poção de Pedras"
+    },
+    {
+      "Nome": "Porto Franco"
+    },
+    {
+      "Nome": "Porto Rico do Maranhão"
+    },
+    {
+      "Nome": "Presidente Dutra"
+    },
+    {
+      "Nome": "Presidente Juscelino"
+    },
+    {
+      "Nome": "Presidente Médici"
+    },
+    {
+      "Nome": "Presidente Sarney"
+    },
+    {
+      "Nome": "Presidente Vargas"
+    },
+    {
+      "Nome": "Primeira Cruz"
+    },
+    {
+      "Nome": "Raposa"
+    },
+    {
+      "Nome": "Riachão"
+    },
+    {
+      "Nome": "Ribamar Fiquene"
+    },
+    {
+      "Nome": "Rosário"
+    },
+    {
+      "Nome": "Sambaíba"
+    },
+    {
+      "Nome": "Santa Filomena do Maranhão"
+    },
+    {
+      "Nome": "Santa Helena"
+    },
+    {
+      "Nome": "Santa Inês"
+    },
+    {
+      "Nome": "Santa Luzia"
+    },
+    {
+      "Nome": "Santa Luzia do Paruá"
+    },
+    {
+      "Nome": "Santa Quitéria do Maranhão"
+    },
+    {
+      "Nome": "Santa Rita"
+    },
+    {
+      "Nome": "Santana do Maranhão"
+    },
+    {
+      "Nome": "Santo Amaro do Maranhão"
+    },
+    {
+      "Nome": "Santo Antônio dos Lopes"
+    },
+    {
+      "Nome": "São Benedito do Rio Preto"
+    },
+    {
+      "Nome": "São Bento"
+    },
+    {
+      "Nome": "São Bernardo"
+    },
+    {
+      "Nome": "São Domingos do Azeitão"
+    },
+    {
+      "Nome": "São Domingos do Maranhão"
+    },
+    {
+      "Nome": "São Félix de Balsas"
+    },
+    {
+      "Nome": "São Francisco do Brejão"
+    },
+    {
+      "Nome": "São Francisco do Maranhão"
+    },
+    {
+      "Nome": "São João Batista"
+    },
+    {
+      "Nome": "São João do Carú"
+    },
+    {
+      "Nome": "São João do Paraíso"
+    },
+    {
+      "Nome": "São João do Soter"
+    },
+    {
+      "Nome": "São João dos Patos"
+    },
+    {
+      "Nome": "São José de Ribamar"
+    },
+    {
+      "Nome": "São José dos Basílios"
+    },
+    {
+      "Nome": "São Luís"
+    },
+    {
+      "Nome": "São Luís Gonzaga do Maranhão"
+    },
+    {
+      "Nome": "São Mateus do Maranhão"
+    },
+    {
+      "Nome": "São Pedro da Água Branca"
+    },
+    {
+      "Nome": "São Pedro dos Crentes"
+    },
+    {
+      "Nome": "São Raimundo das Mangabeiras"
+    },
+    {
+      "Nome": "São Raimundo do Doca Bezerra"
+    },
+    {
+      "Nome": "São Roberto"
+    },
+    {
+      "Nome": "São Vicente Ferrer"
+    },
+    {
+      "Nome": "Satubinha"
+    },
+    {
+      "Nome": "Senador Alexandre Costa"
+    },
+    {
+      "Nome": "Senador La Rocque"
+    },
+    {
+      "Nome": "Serrano do Maranhão"
+    },
+    {
+      "Nome": "Sítio Novo"
+    },
+    {
+      "Nome": "Sucupira do Norte"
+    },
+    {
+      "Nome": "Sucupira do Riachão"
+    },
+    {
+      "Nome": "Tasso Fragoso"
+    },
+    {
+      "Nome": "Timbiras"
+    },
+    {
+      "Nome": "Timon"
+    },
+    {
+      "Nome": "Trizidela do Vale"
+    },
+    {
+      "Nome": "Tufilândia"
+    },
+    {
+      "Nome": "Tuntum"
+    },
+    {
+      "Nome": "Turiaçu"
+    },
+    {
+      "Nome": "Turilândia"
+    },
+    {
+      "Nome": "Tutóia"
+    },
+    {
+      "Nome": "Urbano Santos"
+    },
+    {
+      "Nome": "Vargem Grande"
+    },
+    {
+      "Nome": "Viana"
+    },
+    {
+      "Nome": "Vila Nova dos Martírios"
+    },
+    {
+      "Nome": "Vitória do Mearim"
+    },
+    {
+      "Nome": "Vitorino Freire"
+    },
+    {
+      "Nome": "Zé Doca"
+    }
+  ]
+}

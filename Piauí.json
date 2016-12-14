@@ -1,0 +1,674 @@
+{
+  "Nome": "Piauí",
+  "Cidades": [
+    {
+      "Nome": "Acauã"
+    },
+    {
+      "Nome": "Agricolândia"
+    },
+    {
+      "Nome": "Água Branca"
+    },
+    {
+      "Nome": "Alagoinha do Piauí"
+    },
+    {
+      "Nome": "Alegrete do Piauí"
+    },
+    {
+      "Nome": "Alto Longá"
+    },
+    {
+      "Nome": "Altos"
+    },
+    {
+      "Nome": "Alvorada do Gurguéia"
+    },
+    {
+      "Nome": "Amarante"
+    },
+    {
+      "Nome": "Angical do Piauí"
+    },
+    {
+      "Nome": "Anísio de Abreu"
+    },
+    {
+      "Nome": "Antônio Almeida"
+    },
+    {
+      "Nome": "Aroazes"
+    },
+    {
+      "Nome": "Aroeiras do Itaim"
+    },
+    {
+      "Nome": "Arraial"
+    },
+    {
+      "Nome": "Assunção do Piauí"
+    },
+    {
+      "Nome": "Avelino Lopes"
+    },
+    {
+      "Nome": "Baixa Grande do Ribeiro"
+    },
+    {
+      "Nome": "Barra d'Alcântara"
+    },
+    {
+      "Nome": "Barras"
+    },
+    {
+      "Nome": "Barreiras do Piauí"
+    },
+    {
+      "Nome": "Barro Duro"
+    },
+    {
+      "Nome": "Batalha"
+    },
+    {
+      "Nome": "Bela Vista do Piauí"
+    },
+    {
+      "Nome": "Belém do Piauí"
+    },
+    {
+      "Nome": "Beneditinos"
+    },
+    {
+      "Nome": "Bertolínia"
+    },
+    {
+      "Nome": "Betânia do Piauí"
+    },
+    {
+      "Nome": "Boa Hora"
+    },
+    {
+      "Nome": "Bocaina"
+    },
+    {
+      "Nome": "Bom Jesus"
+    },
+    {
+      "Nome": "Bom Princípio do Piauí"
+    },
+    {
+      "Nome": "Bonfim do Piauí"
+    },
+    {
+      "Nome": "Boqueirão do Piauí"
+    },
+    {
+      "Nome": "Brasileira"
+    },
+    {
+      "Nome": "Brejo do Piauí"
+    },
+    {
+      "Nome": "Buriti dos Lopes"
+    },
+    {
+      "Nome": "Buriti dos Montes"
+    },
+    {
+      "Nome": "Cabeceiras do Piauí"
+    },
+    {
+      "Nome": "Cajazeiras do Piauí"
+    },
+    {
+      "Nome": "Cajueiro da Praia"
+    },
+    {
+      "Nome": "Caldeirão Grande do Piauí"
+    },
+    {
+      "Nome": "Campinas do Piauí"
+    },
+    {
+      "Nome": "Campo Alegre do Fidalgo"
+    },
+    {
+      "Nome": "Campo Grande do Piauí"
+    },
+    {
+      "Nome": "Campo Largo do Piauí"
+    },
+    {
+      "Nome": "Campo Maior"
+    },
+    {
+      "Nome": "Canavieira"
+    },
+    {
+      "Nome": "Canto do Buriti"
+    },
+    {
+      "Nome": "Capitão de Campos"
+    },
+    {
+      "Nome": "Capitão Gervásio Oliveira"
+    },
+    {
+      "Nome": "Caracol"
+    },
+    {
+      "Nome": "Caraúbas do Piauí"
+    },
+    {
+      "Nome": "Caridade do Piauí"
+    },
+    {
+      "Nome": "Castelo do Piauí"
+    },
+    {
+      "Nome": "Caxingó"
+    },
+    {
+      "Nome": "Cocal"
+    },
+    {
+      "Nome": "Cocal de Telha"
+    },
+    {
+      "Nome": "Cocal dos Alves"
+    },
+    {
+      "Nome": "Coivaras"
+    },
+    {
+      "Nome": "Colônia do Gurguéia"
+    },
+    {
+      "Nome": "Colônia do Piauí"
+    },
+    {
+      "Nome": "Conceição do Canindé"
+    },
+    {
+      "Nome": "Coronel José Dias"
+    },
+    {
+      "Nome": "Corrente"
+    },
+    {
+      "Nome": "Cristalândia do Piauí"
+    },
+    {
+      "Nome": "Cristino Castro"
+    },
+    {
+      "Nome": "Curimatá"
+    },
+    {
+      "Nome": "Currais"
+    },
+    {
+      "Nome": "Curral Novo do Piauí"
+    },
+    {
+      "Nome": "Curralinhos"
+    },
+    {
+      "Nome": "Demerval Lobão"
+    },
+    {
+      "Nome": "Dirceu Arcoverde"
+    },
+    {
+      "Nome": "Dom Expedito Lopes"
+    },
+    {
+      "Nome": "Dom Inocêncio"
+    },
+    {
+      "Nome": "Domingos Mourão"
+    },
+    {
+      "Nome": "Elesbão Veloso"
+    },
+    {
+      "Nome": "Eliseu Martins"
+    },
+    {
+      "Nome": "Esperantina"
+    },
+    {
+      "Nome": "Fartura do Piauí"
+    },
+    {
+      "Nome": "Flores do Piauí"
+    },
+    {
+      "Nome": "Floresta do Piauí"
+    },
+    {
+      "Nome": "Floriano"
+    },
+    {
+      "Nome": "Francinópolis"
+    },
+    {
+      "Nome": "Francisco Ayres"
+    },
+    {
+      "Nome": "Francisco Macedo"
+    },
+    {
+      "Nome": "Francisco Santos"
+    },
+    {
+      "Nome": "Fronteiras"
+    },
+    {
+      "Nome": "Geminiano"
+    },
+    {
+      "Nome": "Gilbués"
+    },
+    {
+      "Nome": "Guadalupe"
+    },
+    {
+      "Nome": "Guaribas"
+    },
+    {
+      "Nome": "Hugo Napoleão"
+    },
+    {
+      "Nome": "Ilha Grande"
+    },
+    {
+      "Nome": "Inhuma"
+    },
+    {
+      "Nome": "Ipiranga do Piauí"
+    },
+    {
+      "Nome": "Isaías Coelho"
+    },
+    {
+      "Nome": "Itainópolis"
+    },
+    {
+      "Nome": "Itaueira"
+    },
+    {
+      "Nome": "Jacobina do Piauí"
+    },
+    {
+      "Nome": "Jaicós"
+    },
+    {
+      "Nome": "Jardim do Mulato"
+    },
+    {
+      "Nome": "Jatobá do Piauí"
+    },
+    {
+      "Nome": "Jerumenha"
+    },
+    {
+      "Nome": "João Costa"
+    },
+    {
+      "Nome": "Joaquim Pires"
+    },
+    {
+      "Nome": "Joca Marques"
+    },
+    {
+      "Nome": "José de Freitas"
+    },
+    {
+      "Nome": "Juazeiro do Piauí"
+    },
+    {
+      "Nome": "Júlio Borges"
+    },
+    {
+      "Nome": "Jurema"
+    },
+    {
+      "Nome": "Lagoa Alegre"
+    },
+    {
+      "Nome": "Lagoa de São Francisco"
+    },
+    {
+      "Nome": "Lagoa do Barro do Piauí"
+    },
+    {
+      "Nome": "Lagoa do Piauí"
+    },
+    {
+      "Nome": "Lagoa do Sítio"
+    },
+    {
+      "Nome": "Lagoinha do Piauí"
+    },
+    {
+      "Nome": "Landri Sales"
+    },
+    {
+      "Nome": "Luís Correia"
+    },
+    {
+      "Nome": "Luzilândia"
+    },
+    {
+      "Nome": "Madeiro"
+    },
+    {
+      "Nome": "Manoel Emídio"
+    },
+    {
+      "Nome": "Marcolândia"
+    },
+    {
+      "Nome": "Marcos Parente"
+    },
+    {
+      "Nome": "Massapê do Piauí"
+    },
+    {
+      "Nome": "Matias Olímpio"
+    },
+    {
+      "Nome": "Miguel Alves"
+    },
+    {
+      "Nome": "Miguel Leão"
+    },
+    {
+      "Nome": "Milton Brandão"
+    },
+    {
+      "Nome": "Monsenhor Gil"
+    },
+    {
+      "Nome": "Monsenhor Hipólito"
+    },
+    {
+      "Nome": "Monte Alegre do Piauí"
+    },
+    {
+      "Nome": "Morro Cabeça no Tempo"
+    },
+    {
+      "Nome": "Morro do Chapéu do Piauí"
+    },
+    {
+      "Nome": "Murici dos Portelas"
+    },
+    {
+      "Nome": "Nazaré do Piauí"
+    },
+    {
+      "Nome": "Nossa Senhora de Nazaré"
+    },
+    {
+      "Nome": "Nossa Senhora dos Remédios"
+    },
+    {
+      "Nome": "Nova Santa Rita"
+    },
+    {
+      "Nome": "Novo Oriente do Piauí"
+    },
+    {
+      "Nome": "Novo Santo Antônio"
+    },
+    {
+      "Nome": "Oeiras"
+    },
+    {
+      "Nome": "Olho d'Água do Piauí"
+    },
+    {
+      "Nome": "Padre Marcos"
+    },
+    {
+      "Nome": "Paes Landim"
+    },
+    {
+      "Nome": "Pajeú do Piauí"
+    },
+    {
+      "Nome": "Palmeira do Piauí"
+    },
+    {
+      "Nome": "Palmeirais"
+    },
+    {
+      "Nome": "Paquetá"
+    },
+    {
+      "Nome": "Parnaguá"
+    },
+    {
+      "Nome": "Parnaíba"
+    },
+    {
+      "Nome": "Passagem Franca do Piauí"
+    },
+    {
+      "Nome": "Patos do Piauí"
+    },
+    {
+      "Nome": "Pau d'Arco do Piauí"
+    },
+    {
+      "Nome": "Paulistana"
+    },
+    {
+      "Nome": "Pavussu"
+    },
+    {
+      "Nome": "Pedro II"
+    },
+    {
+      "Nome": "Pedro Laurentino"
+    },
+    {
+      "Nome": "Picos"
+    },
+    {
+      "Nome": "Pimenteiras"
+    },
+    {
+      "Nome": "Pio IX"
+    },
+    {
+      "Nome": "Piracuruca"
+    },
+    {
+      "Nome": "Piripiri"
+    },
+    {
+      "Nome": "Porto"
+    },
+    {
+      "Nome": "Porto Alegre do Piauí"
+    },
+    {
+      "Nome": "Prata do Piauí"
+    },
+    {
+      "Nome": "Queimada Nova"
+    },
+    {
+      "Nome": "Redenção do Gurguéia"
+    },
+    {
+      "Nome": "Regeneração"
+    },
+    {
+      "Nome": "Riacho Frio"
+    },
+    {
+      "Nome": "Ribeira do Piauí"
+    },
+    {
+      "Nome": "Ribeiro Gonçalves"
+    },
+    {
+      "Nome": "Rio Grande do Piauí"
+    },
+    {
+      "Nome": "Santa Cruz do Piauí"
+    },
+    {
+      "Nome": "Santa Cruz dos Milagres"
+    },
+    {
+      "Nome": "Santa Filomena"
+    },
+    {
+      "Nome": "Santa Luz"
+    },
+    {
+      "Nome": "Santa Rosa do Piauí"
+    },
+    {
+      "Nome": "Santana do Piauí"
+    },
+    {
+      "Nome": "Santo Antônio de Lisboa"
+    },
+    {
+      "Nome": "Santo Antônio dos Milagres"
+    },
+    {
+      "Nome": "Santo Inácio do Piauí"
+    },
+    {
+      "Nome": "São Braz do Piauí"
+    },
+    {
+      "Nome": "São Félix do Piauí"
+    },
+    {
+      "Nome": "São Francisco de Assis do Piauí"
+    },
+    {
+      "Nome": "São Francisco do Piauí"
+    },
+    {
+      "Nome": "São Gonçalo do Gurguéia"
+    },
+    {
+      "Nome": "São Gonçalo do Piauí"
+    },
+    {
+      "Nome": "São João da Canabrava"
+    },
+    {
+      "Nome": "São João da Fronteira"
+    },
+    {
+      "Nome": "São João da Serra"
+    },
+    {
+      "Nome": "São João da Varjota"
+    },
+    {
+      "Nome": "São João do Arraial"
+    },
+    {
+      "Nome": "São João do Piauí"
+    },
+    {
+      "Nome": "São José do Divino"
+    },
+    {
+      "Nome": "São José do Peixe"
+    },
+    {
+      "Nome": "São José do Piauí"
+    },
+    {
+      "Nome": "São Julião"
+    },
+    {
+      "Nome": "São Lourenço do Piauí"
+    },
+    {
+      "Nome": "São Luis do Piauí"
+    },
+    {
+      "Nome": "São Miguel da Baixa Grande"
+    },
+    {
+      "Nome": "São Miguel do Fidalgo"
+    },
+    {
+      "Nome": "São Miguel do Tapuio"
+    },
+    {
+      "Nome": "São Pedro do Piauí"
+    },
+    {
+      "Nome": "São Raimundo Nonato"
+    },
+    {
+      "Nome": "Sebastião Barros"
+    },
+    {
+      "Nome": "Sebastião Leal"
+    },
+    {
+      "Nome": "Sigefredo Pacheco"
+    },
+    {
+      "Nome": "Simões"
+    },
+    {
+      "Nome": "Simplício Mendes"
+    },
+    {
+      "Nome": "Socorro do Piauí"
+    },
+    {
+      "Nome": "Sussuapara"
+    },
+    {
+      "Nome": "Tamboril do Piauí"
+    },
+    {
+      "Nome": "Tanque do Piauí"
+    },
+    {
+      "Nome": "Teresina"
+    },
+    {
+      "Nome": "União"
+    },
+    {
+      "Nome": "Uruçuí"
+    },
+    {
+      "Nome": "Valença do Piauí"
+    },
+    {
+      "Nome": "Várzea Branca"
+    },
+    {
+      "Nome": "Várzea Grande"
+    },
+    {
+      "Nome": "Vera Mendes"
+    },
+    {
+      "Nome": "Vila Nova do Piauí"
+    },
+    {
+      "Nome": "Wall Ferraz"
+    }
+  ]
+}

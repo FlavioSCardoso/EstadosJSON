@@ -1,0 +1,281 @@
+{
+  "Nome": "Rio de Janeiro",
+  "Cidades": [
+    {
+      "Nome": "Angra dos Reis"
+    },
+    {
+      "Nome": "Aperibé"
+    },
+    {
+      "Nome": "Araruama"
+    },
+    {
+      "Nome": "Areal"
+    },
+    {
+      "Nome": "Armação dos Búzios"
+    },
+    {
+      "Nome": "Arraial do Cabo"
+    },
+    {
+      "Nome": "Barra do Piraí"
+    },
+    {
+      "Nome": "Barra Mansa"
+    },
+    {
+      "Nome": "Belford Roxo"
+    },
+    {
+      "Nome": "Bom Jardim"
+    },
+    {
+      "Nome": "Bom Jesus do Itabapoana"
+    },
+    {
+      "Nome": "Cabo Frio"
+    },
+    {
+      "Nome": "Cachoeiras de Macacu"
+    },
+    {
+      "Nome": "Cambuci"
+    },
+    {
+      "Nome": "Campos dos Goytacazes"
+    },
+    {
+      "Nome": "Cantagalo"
+    },
+    {
+      "Nome": "Carapebus"
+    },
+    {
+      "Nome": "Cardoso Moreira"
+    },
+    {
+      "Nome": "Carmo"
+    },
+    {
+      "Nome": "Casimiro de Abreu"
+    },
+    {
+      "Nome": "Comendador Levy Gasparian"
+    },
+    {
+      "Nome": "Conceição de Macabu"
+    },
+    {
+      "Nome": "Cordeiro"
+    },
+    {
+      "Nome": "Duas Barras"
+    },
+    {
+      "Nome": "Duque de Caxias"
+    },
+    {
+      "Nome": "Engenheiro Paulo de Frontin"
+    },
+    {
+      "Nome": "Guapimirim"
+    },
+    {
+      "Nome": "Iguaba Grande"
+    },
+    {
+      "Nome": "Itaboraí"
+    },
+    {
+      "Nome": "Itaguaí"
+    },
+    {
+      "Nome": "Italva"
+    },
+    {
+      "Nome": "Itaocara"
+    },
+    {
+      "Nome": "Itaperuna"
+    },
+    {
+      "Nome": "Itatiaia"
+    },
+    {
+      "Nome": "Japeri"
+    },
+    {
+      "Nome": "Laje do Muriaé"
+    },
+    {
+      "Nome": "Macaé"
+    },
+    {
+      "Nome": "Macuco"
+    },
+    {
+      "Nome": "Magé"
+    },
+    {
+      "Nome": "Mangaratiba"
+    },
+    {
+      "Nome": "Maricá"
+    },
+    {
+      "Nome": "Mendes"
+    },
+    {
+      "Nome": "Mesquita"
+    },
+    {
+      "Nome": "Miguel Pereira"
+    },
+    {
+      "Nome": "Miracema"
+    },
+    {
+      "Nome": "Natividade"
+    },
+    {
+      "Nome": "Nilópolis"
+    },
+    {
+      "Nome": "Niterói"
+    },
+    {
+      "Nome": "Nova Friburgo"
+    },
+    {
+      "Nome": "Nova Iguaçu"
+    },
+    {
+      "Nome": "Paracambi"
+    },
+    {
+      "Nome": "Paraíba do Sul"
+    },
+    {
+      "Nome": "Parati"
+    },
+    {
+      "Nome": "Paty do Alferes"
+    },
+    {
+      "Nome": "Petrópolis"
+    },
+    {
+      "Nome": "Pinheiral"
+    },
+    {
+      "Nome": "Piraí"
+    },
+    {
+      "Nome": "Porciúncula"
+    },
+    {
+      "Nome": "Porto Real"
+    },
+    {
+      "Nome": "Quatis"
+    },
+    {
+      "Nome": "Queimados"
+    },
+    {
+      "Nome": "Quissamã"
+    },
+    {
+      "Nome": "Resende"
+    },
+    {
+      "Nome": "Rio Bonito"
+    },
+    {
+      "Nome": "Rio Claro"
+    },
+    {
+      "Nome": "Rio das Flores"
+    },
+    {
+      "Nome": "Rio das Ostras"
+    },
+    {
+      "Nome": "Rio de Janeiro"
+    },
+    {
+      "Nome": "Santa Maria Madalena"
+    },
+    {
+      "Nome": "Santo Antônio de Pádua"
+    },
+    {
+      "Nome": "São Fidélis"
+    },
+    {
+      "Nome": "São Francisco de Itabapoana"
+    },
+    {
+      "Nome": "São Gonçalo"
+    },
+    {
+      "Nome": "São João da Barra"
+    },
+    {
+      "Nome": "São João de Meriti"
+    },
+    {
+      "Nome": "São José de Ubá"
+    },
+    {
+      "Nome": "São José do Vale do Rio Pret"
+    },
+    {
+      "Nome": "São Pedro da Aldeia"
+    },
+    {
+      "Nome": "São Sebastião do Alto"
+    },
+    {
+      "Nome": "Sapucaia"
+    },
+    {
+      "Nome": "Saquarema"
+    },
+    {
+      "Nome": "Seropédica"
+    },
+    {
+      "Nome": "Silva Jardim"
+    },
+    {
+      "Nome": "Sumidouro"
+    },
+    {
+      "Nome": "Tanguá"
+    },
+    {
+      "Nome": "Teresópolis"
+    },
+    {
+      "Nome": "Trajano de Morais"
+    },
+    {
+      "Nome": "Três Rios"
+    },
+    {
+      "Nome": "Valença"
+    },
+    {
+      "Nome": "Varre-Sai"
+    },
+    {
+      "Nome": "Vassouras"
+    },
+    {
+      "Nome": "Volta Redonda"
+    }
+  ]
+}
